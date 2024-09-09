@@ -11,3 +11,7 @@
 ## Document Preview
 ![Document Preview](https://drive.google.com/uc?export=view&id=1ILeCVYVvj88jge07UXL6ZhlIqp1DMqEO)
 
+### Extracted Aadhar number from Image
+![Extracted Aadhar](https://drive.google.com/uc?export=view&id=1OxpXz40uqGa6URS-lv_SZku3-Yi7IboJ)
+
+
